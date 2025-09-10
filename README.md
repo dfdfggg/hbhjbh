@@ -18,7 +18,7 @@ This repository is for creating a poem collaboratively by two groups. Each group
 ## Groups:
 
 *   **Group A:** https://github.com/dfdfggg/hbhjbh
-*   **Group B:** 
+*   **Group B:** https://github.com/AnnaLyapicheva21/-
 
 ## File:
 
